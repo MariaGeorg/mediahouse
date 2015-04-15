@@ -1,1 +1,7 @@
-Hej Hår
+<<<<<<< HEAD
+Hej Hår o
+=======
+
+hej!
+﻿Hej Hå Derp
+>>>>>>> origin/master
